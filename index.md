@@ -4,19 +4,13 @@ You can use the [editor on GitHub](https://github.com/YUkaikai02/myH5/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+宇宙还挺谦虚的，明明拥有一切，却叫太空。
+让一个人生气的事情的大小就能看出一个人的价值。
+岁月不可重来，生活也不可以再做安排。
+使人疲惫的不是远方的高山，而是鞋子里的一粒沙子。
+听山间流水潺缓而下，闻林间绿叶摩挲交谈，一闭眼就走过四季如夏，来到满稻金黄的原野。拾起一粒沾着白浆的新谷，放到鼻尖轻嗅，独特的香味彷佛昭告着时序的丰收和生命的舒张。
 - Bulleted
-- List
+- Limoshast
 
 1. Numbered
 2. List
